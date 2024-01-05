@@ -37,5 +37,5 @@ Adding `--task translate` will translate the subtitles into English:
 
 Run the following to view all available options:
 
-    yt_whisper --help
+    youtube --help
 
